@@ -1,0 +1,26 @@
+{
+  "name": "ng1-basic",
+  "description": "angular#1 sample project",
+  "main": "index.js",
+  "authors": [
+    "Farcek <farcek@yahoo.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.2",
+    "angular": "~1.5.2",
+    "angular-route": "~1.5.2",
+    "oclazyload": "~1.0.9"
+  }
+}
